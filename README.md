@@ -1,1 +1,3 @@
-Linear Regression with Python
+Linear Regression
+
+Language: Python
